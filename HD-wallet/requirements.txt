@@ -1,0 +1,5 @@
+Step 1. Install web3.py python library
+Step 2. Install bit python bitcoin library
+Step 2. Install PHP and set the environment variable to use hd-wallet-derive
+Step 4. Clone the hd-wallet-derive from Github website and follow the installation instruction 
+ 
